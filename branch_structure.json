@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dd-317-auditanchor-anchorrecord-behavior",
+    "dd-328-ver-backend-dlq-job",
+    "main",
+    "origin",
+    "test/requireauth-coverage"
+  ],
+  "parent": {
+    "dd-317-auditanchor-anchorrecord-behavior": "main",
+    "dd-328-ver-backend-dlq-job": "main",
+    "main": null,
+    "origin": "main",
+    "test/requireauth-coverage": "main"
+  },
+  "order": [
+    "main",
+    "dd-317-auditanchor-anchorrecord-behavior",
+    "dd-328-ver-backend-dlq-job",
+    "origin",
+    "test/requireauth-coverage"
+  ]
+}
